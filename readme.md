@@ -1,0 +1,1 @@
+This project is focusd on making Space Shooter game using C++ and SFML
