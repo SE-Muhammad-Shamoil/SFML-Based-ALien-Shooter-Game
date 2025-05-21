@@ -14,7 +14,6 @@ The projects implements the following Functionalities:<br>
   <li>Temporary conditions like paralysis</li>
   <li>Final Monster Boss (Not yet Merged) </li> 
   <li>An unkillable dragon to avoid</li>
-  <li></li>
   
 </ul>
 
