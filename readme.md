@@ -19,4 +19,4 @@ The projects implements the following Functionalities:<br>
 
 <h2>Note</h2>
 The Game was made using SFML 2.6.1 and MinGw (SourceForge) <br>
-It may not work with newer versions of SFML
+It may not work with newer or incompatible versions of SFML
